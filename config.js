@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'Richard Botley',
+  subHeading: 'Freelance marketing consultant.   ',
   // social
   socialLinks: [
     {
@@ -20,19 +20,14 @@ module.exports = {
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
+      url: 'https://twitter.com/richardbotley',
+    },    
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:richard.botley@gmail.com',
     },
   ],
   phone: '000-00000',
-  address: '305 Del Sol, Sunnyvale, CA',
+  address: 'Palm Jumeriah, Dubai, UAEA',
 };
